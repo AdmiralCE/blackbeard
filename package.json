@@ -1,0 +1,23 @@
+{
+  "name": "blackbeard",
+  "version": "1.0.0",
+  "description": "Course Importing Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdmiralCE/blackbeard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdmiralCE/blackbeard/issues"
+  },
+  "homepage": "https://github.com/AdmiralCE/blackbeard#readme",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
+}
